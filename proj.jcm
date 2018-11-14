@@ -1,0 +1,26 @@
+/*
+    proj
+    ---------------------------
+
+    JaCaMo Project File
+
+    This file defines the initial state of the MAS (initial agents, environment, organisation, ....)
+
+    (see jacamo/doc/jcm.html for more information about what can be defined in this file)
+
+    JaCaMo <VERSION>
+    <DATE>
+*/
+
+mas proj {
+
+    agent aCon
+    agent aMon
+    agent aMud
+    agent aRis
+    agent manager
+
+    
+
+}
+
